@@ -1,0 +1,10 @@
+{
+    "connection_file" : "connection.json",
+    "netAdmin" : "admin",
+    "netAdminSecret" : "adminpw",
+    "orgMSPID" : "Org1MSP",
+    "caName" : "ca.example.com",
+    "contractName" : "committee",
+    "channelName" : "mychannel",
+    "mspPath" : "../basic-network"
+}
