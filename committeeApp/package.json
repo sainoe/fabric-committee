@@ -23,7 +23,7 @@
     "express": "^4.17.1",
     "fabric-ca-client": "^1.4.4",
     "fabric-network": "^1.4.4",
-    "jsrsasign": "^8.0.12",
+    "jsrsasign": "^10.2.0",
     "uuid": "^3.3.2"
   }
 }
