@@ -1,7 +1,6 @@
-# Create a fair application to ensure correct decision results with Hyperledger Fabric.
+## A governance application based on Hyperledger Fabric
 
-
-## This repository consists of a full solution with a nodejs app communicating to the HLF nodes via the fabric-sdk.
+### The solution enables committees to create proposals and take equitable decisions on-chain.
 
 The Hyperledger Fabric network deploys a Go chaincode with methods allowing to:
 
